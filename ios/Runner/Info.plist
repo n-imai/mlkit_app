@@ -6,6 +6,8 @@
 	<string>写真を選択して顔検出を行うために写真へのアクセス許可が必要です。</string>
 	<key>NSCameraUsageDescription</key>
 	<string>写真を撮影して顔検出を行うためにカメラへのアクセス許可が必要です。</string>
+	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
+	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>

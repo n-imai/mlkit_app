@@ -47,7 +47,6 @@ app.*.map.json
 # Firebase configuration files containing sensitive information
 /android/app/google-services.json
 /ios/Runner/GoogleService-Info.plist
-/ios/Runner/GoogleService-Info (1).plist
 
 # Local configuration files that might contain sensitive information
 .env
